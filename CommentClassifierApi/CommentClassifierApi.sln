@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommentClassifierApi", "CommentClassifierApi\CommentClassifierApi.csproj", "{462699E6-C9E2-4088-950C-FA81C7846F7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{462699E6-C9E2-4088-950C-FA81C7846F7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462699E6-C9E2-4088-950C-FA81C7846F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462699E6-C9E2-4088-950C-FA81C7846F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462699E6-C9E2-4088-950C-FA81C7846F7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E6BCD6F-C1B5-4ED5-A8E4-D13137C81CBC}
+	EndGlobalSection
+EndGlobal
