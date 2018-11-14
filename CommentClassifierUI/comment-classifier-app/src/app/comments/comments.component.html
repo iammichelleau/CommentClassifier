@@ -1,0 +1,9 @@
+<div>
+  <label>Enter comment:
+    <input #commentContent />
+  </label>
+  <button (click)="submit(commentContent.value);">
+    Submit
+  </button>
+</div>
+<label>Output: {{this.response}}</label>
